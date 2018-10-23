@@ -1,0 +1,78 @@
+{
+  "products": [
+     {
+        "id": 1,
+        "name":"Ding Tea Trà Sữa Đài Loa Lê Duẩn",
+        "loacation ":"238 Lê Duẩn, Quận Thanh Khê, Đà Nẵng",
+        "image":"img/dig-tea.jpg",
+		"clock":"7.00-18.00",
+        "time":"CHUẨN BỊ 30 phút",
+        "develop":"PHÍ SHIP 5,000đ/km",
+        "price":"20.000đ $ 40.000đ"
+
+    },
+     {
+        "id": "2",
+        "name":"Mai Túc Bánh Bột Lọc Bánh Gói & Nậm",
+        "loacation ":"K132/01 Ông Ích Khiêm,Quận Hải Châu,Đà Nẵng",
+        "image":"img/foody-mobile-nam-jpg.jpg",
+		"clock":"7.00-18.00",
+        "time":"CHUẨN BỊ 15 phút",
+        "develop":"PHÍ SHIP 7,000đ/km",
+        "price":"20.000đ"
+
+
+    },
+     {
+        "id": "3",
+        "name":"Bún Mắm Bà Đông",
+        "loacation ":"141 Huỳnh Thúc Kháng P.Bình Hiên,Quận Hải Châu,Đà Nẵng",
+        "image":"img/bunman.jpg",
+		"clock":"6.45-15.00",
+        "time":"CHUẨN BỊ 15 phút",
+        "develop":"PHÍ SHIP 7,000đ/km",
+        "price":"25.000đ"
+    },
+     {
+        "id": "4",
+        "name":"Ding Tea Trà Sữa Đài Loan Lê Duẩn",
+        "loacation ":"238 Lê Duẩn, Quận Thanh Khê, Đà Nẵng",
+        "image":"img/dig-tea.jpg",
+		"clock":"7.00-22.00",
+        "time":"CHUẨN BỊ 30 phút",
+        "develop":"PHÍ SHIP 5,000đ/km",
+        "price":"20.000đ - 40.000đ"
+
+
+    }
+  ],
+  
+  "propertiesfeatured": [
+    {
+      "id": 1,
+      "name":"Bún Mắm Bà Đông",
+      "image":"img/bunman.jpg",
+	  "loacation ":"238 Lê Duẩn,  Đà Nẵng",
+	  "price":"20.000đ - 40.000đ"
+    },
+	{
+      "id": 3,
+      "name":"Bún Mắm Bà Đông",
+      "image":"img/bunman.jpg",
+	  "loacation ":"238 Lê Duẩn,  Đà Nẵng",
+	  "price":"20.000đ - 40.000đ"
+    },{
+      "id": 4,
+      "name":"Bún Mắm Bà Đông",
+      "image":"img/bunman.jpg",
+	  "loacation ":"238 Lê Duẩn,  Đà Nẵng",
+	  "price":"20.000đ - 40.000đ"
+    },{
+      "id": 5,
+      "name":"Bún Mắm Bà Đông",
+      "image":"img/bunman.jpg",
+	  "loacation ":"238 Lê Duẩn,  Đà Nẵng",
+	  "price":"20.000đ - 40.000đ"
+    }
+  ]
+}
